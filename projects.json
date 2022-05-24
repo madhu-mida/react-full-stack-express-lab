@@ -1,14 +1,14 @@
 [
     {
-        "name": "project1",
-        "live": "https://app.herokuapp.com/whatever",
-        "git": "http://www.github.com/username/reponame",
+        "name": "Google-Books",
+        "live": "https://github.com/madhu-mida/google-books",
+        "git": "https://github.com/madhu-mida/google-books",
         "image": "http://www.imgur.com/pictureofproject.png"
     },
     {
-        "name": "project2",
-        "live": "https://app.netlify.app/whatever",
-        "git": "http://www.github.com/username/reponame",
+        "name": "Instagram",
+        "live": "https://igram-clone-ga.herokuapp.com/",
+        "git": "https://github.com/madhu-mida/instagram-project",
         "image": "http://www.imgur.com/pictureofproject.png"
     }
 ]
