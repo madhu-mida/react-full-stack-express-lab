@@ -1,6 +1,7 @@
 // Import Dependencies
 const express = require("express");
 const cors = require("cors");
+require("dotenv").config();
 
 // Import JSON files
 const projects = require("./projects.json");
